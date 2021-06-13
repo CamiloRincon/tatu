@@ -1,4 +1,6 @@
 # README
+![version number](https://vsmarketplacebadge.apphb.com/version/Carlmultimedia.tatu-dark.svg)
+
 ## This is the README for  extension "tatu-dark"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 

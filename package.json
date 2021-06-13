@@ -15,7 +15,8 @@
         "code",
         "carlmultimedia",
         "green dark",
-        "green dark theme"
+        "green dark theme",
+        "tatu dark"
     ],
     "engines": {
         "vscode": "^1.57.0"
