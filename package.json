@@ -4,6 +4,19 @@
     "description": "Tatu dark theme",
     "version": "0.0.1",
     "publisher": "carlmultimedia",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CamiloRincon/tatu-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "dark theme",
+        "code",
+        "carlmultimedia",
+        "green dark",
+        "green dark theme"
+    ],
     "engines": {
         "vscode": "^1.57.0"
     },
