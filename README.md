@@ -22,3 +22,10 @@
 
 
 **Enjoy!**
+
+### Author
+
+[carlmultimedia.com](https://carlmultimedia.com/)
+
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" width="200">](https://www.buymeacoffee.com/carlmultimediaa)
