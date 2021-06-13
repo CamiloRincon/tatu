@@ -1,0 +1,22 @@
+{
+    "name": "tatu-dark",
+    "displayName": "Tatu dark",
+    "description": "Tatu dark theme",
+    "version": "0.0.1",
+    "publisher": "carlmultimedia",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tatu dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tatu dark-color-theme.json"
+            }
+        ]
+    }
+}
