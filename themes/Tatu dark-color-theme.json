@@ -34,7 +34,7 @@
     "editor.selectionHighlightBorder": "#F5F6F9f0",
     "editorBracketMatch.background": "#141414",
     "editorBracketMatch.border": "#1414147f",
-    "editorCursor.foreground": "#141414",
+    "editorCursor.foreground": "#FFC15E",
     "editorError.foreground": "#00000070",
     "editorGroup.border": "#14141430",
     "editorGroupHeader.tabsBackground": "#141414",
@@ -179,20 +179,20 @@
     "terminal.ansiBlue": "#F5F6F9",
     "terminal.ansiBrightBlack": "#2A628F",
     "terminal.ansiBrightBlue": "#F5F6F9",
-    "terminal.ansiBrightCyan": "#F7FFF7",
-    "terminal.ansiBrightGreen": "#000000",
-    "terminal.ansiBrightMagenta": "#141414",
-    "terminal.ansiBrightRed": "#000000",
+    "terminal.ansiBrightCyan": "#03A695",
+    "terminal.ansiBrightGreen": "#00d861",
+    "terminal.ansiBrightMagenta": "#b800c9",
+    "terminal.ansiBrightRed": "#CC5803",
     "terminal.ansiBrightWhite": "#F7FFF7",
-    "terminal.ansiBrightYellow": "#141414",
+    "terminal.ansiBrightYellow": "#FFC15E",
     "terminal.ansiCyan": "#03A695",
     "terminal.ansiGreen": "#00d861",
     "terminal.ansiMagenta": "#b800c9",
     "terminal.ansiRed": "#CC5803",
     "terminal.ansiWhite": "#F7FFF7",
     "terminal.ansiYellow": "#FFC15E",
-    "terminalCursor.background": "#141414",
-    "terminalCursor.foreground": "#141414",
+    "terminalCursor.background": "#00d861",
+    "terminalCursor.foreground": "#03A695",
     "textLink.activeForeground": "#03A695",
     "textLink.foreground": "#2A628F",
     "titleBar.activeBackground": "#03A695",
@@ -260,7 +260,7 @@
         "invalid.illegal"
       ],
       "settings": {
-        "foreground": "#000000"
+        "foreground": "#CC5803"
       }
     },
     {
@@ -307,8 +307,7 @@
         "punctuation.definition.entity.css",
         "keyword.operator.assignment.js",
         "punctuation.separator.comma.js",
-        "punctuation.definition.string.begin.js",
-        "punctuation.definition.string.end.js",
+
         "punctuation.definition.binding-pattern.object.js"
       ],
       "settings": {
@@ -317,6 +316,8 @@
     },
     {
       "scope": [
+        "punctuation.definition.string.begin.js",
+        "punctuation.definition.string.end.js",
         "punctuation.definition",
         "string.quoted.single.scss"
       ],
@@ -448,7 +449,7 @@
         "punctuation.separator.key-value.html"
       ],
       "settings": {
-        "foreground": "#141414"
+        "foreground": "#44E5E7"
       }
     },
     {
@@ -473,7 +474,7 @@
         "string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#000000",
+        "foreground": "#2A628F",
         "fontStyle": "bold"
       }
     },
@@ -790,6 +791,9 @@
     {
       "scope": [
         "keyword.other.unit.rem.css",
+        "keyword.other.unit.vmin.css",
+        "keyword.other.unit.deg.css",
+        "keyword.other.unit.px.css",
         "constant.numeric.css",
         "meta.property-value.css",
         "meta.property-list.css",
