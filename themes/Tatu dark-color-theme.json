@@ -330,7 +330,7 @@
         "keyword.control"
       ],
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": "normal"
       }
     },
     {
@@ -369,7 +369,7 @@
         "entity.name.tag.html"
       ],
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": "normal"
       }
     },
     {
@@ -391,7 +391,7 @@
       ],
       "settings": {
         "foreground": "#03A695",
-        "fontStyle": "bold"
+        "fontStyle": "normal"
       }
     },
     {
@@ -475,7 +475,7 @@
       ],
       "settings": {
         "foreground": "#2A628F",
-        "fontStyle": "bold"
+        "fontStyle": "normal"
       }
     },
     {
@@ -678,7 +678,7 @@
       ],
       "settings": {
         "foreground": "#03A695",
-        "fontStyle": "bold"
+        "fontStyle": "normal"
       }
     },
     {
@@ -761,7 +761,7 @@
       ],
       "settings": {
         "foreground": "#CC5803",
-        "fontStyle": "bold"
+        "fontStyle": "normal"
       }
     },
     {
